@@ -6,6 +6,9 @@ This magical, pixel-powered, code-fueled calculator gives you a **totally not-ri
 Built in **Streamlit** in just one caffeine-fueled session 🔥☕
 
 ---
+🔗 App link:-
+https://love--calculator.streamlit.app/
+---
 
 ## 🚀 Features
 
@@ -34,3 +37,4 @@ Built in **Streamlit** in just one caffeine-fueled session 🔥☕
 2. **Install dependencies**  
    ```bash
    pip install streamlit
+
